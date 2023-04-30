@@ -21,3 +21,18 @@ header{
     display: flex;
     justify-content: space-between;
 }
+
+/* ナビゲーションのリンクの装飾設定 */
+#nav-pc > a:link{
+    color: #0d0d00;
+    margin-left: 20px;
+}
+#nav-pc >a:visited {
+    color: #0d0d00;
+}
+#nav-pc >a:hover {
+    color: #0d0d00;
+}
+#nav-pc >a:active {
+    color: #0d0d00;
+}
