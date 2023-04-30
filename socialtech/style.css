@@ -110,3 +110,17 @@ h3 {
     widows: 100%;
     display: flex;
 }
+
+#mission-flex > div {
+    width: 50%;
+    margin: 20px;
+}
+
+#mission-photo {
+    width: 100%;
+}
+
+#s2dgs {
+    margin-top: 50px;
+    width: 100%;
+}
