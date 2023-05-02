@@ -203,3 +203,13 @@ h3 {
 #product-more {
     margin: 0 auto -42px auto;
 }
+
+/*ABOUT US*/
+#aboutus {
+    margin: 80px auto 80px auto;
+}
+
+/*3つの組織文化と画像を入れる枠*/
+#aboutus > div {
+    display: flex;
+}
