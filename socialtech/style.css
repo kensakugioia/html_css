@@ -163,3 +163,9 @@ h3 {
     height: 480px;
     margin-right: 20px;
 }
+
+/*画像*/
+.product-photo {
+    width: 100%;
+}
+
