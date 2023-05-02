@@ -195,4 +195,11 @@ h3 {
 }
 
 /*説明文*/
+.product-explain > p {
+    font-size: 14px;
+    margin: 0;
+}
 /*「もっとみる」ボタン*/
+#product-more {
+    margin: 0 auto -42px auto;
+}
