@@ -367,3 +367,16 @@ h3 {
     height: 368px;
     margin-top: 40px;
 }
+
+/* お問い合わせ */
+#contact {
+    margin: 80px auto 80px auto;
+  }
+  
+  /* 外枠 */
+  #contact > form > div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-bottom: 30px;
+  }
