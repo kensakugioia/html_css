@@ -263,7 +263,7 @@ h3 {
 }
 
 /* セクション内の外枠 */
-#vision {
+#vision  > div {
     width: 100%;
     display: flex;
     justify-content: space-between;
