@@ -486,8 +486,7 @@ details {
 スマートフォン用のスタイル
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝ */
 @media screen and (min-width: 767px) {
-
-body {
+     body {
     min-width: 375px;
     margin: 0;
   }
