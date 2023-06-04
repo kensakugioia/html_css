@@ -421,3 +421,26 @@ h3 {
     width: 400px;
     height: 200px;
   }
+
+  /* 個人情報の取り扱い */
+details {
+    width: 700px;
+  }
+  details > div {
+    background-color: #fafafa;
+    padding: 20px;
+  }
+  details > div > span {
+    font-weight: bold;
+  }
+
+  /* フッター */
+ footer{
+    background-color: #0d0d0d;
+    text-align: center;
+    padding: 80px 80px 30px 80px;
+ }
+
+ #footer-logo{
+    margin-bottom: 30px;
+ }
