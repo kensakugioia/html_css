@@ -444,3 +444,25 @@ details {
  #footer-logo{
     margin-bottom: 30px;
  }
+
+ #footer-link{
+    margin-bottom: 50px;
+ }
+
+ #footer-link > a {
+    text-decoration: none;
+    margin: 10px;
+ }
+ #footer-link > a:link{
+    color: #ffffff;
+ }
+ #footer-link > a:visited {
+    color: #ffffff;
+ }
+ #footer-link > a:hover{
+    color: #ffffff;
+    text-decoration: underline;
+ }
+ #footer-link > a:active{
+    color: #ffffff;
+ }
