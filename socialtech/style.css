@@ -487,4 +487,19 @@ details {
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝ */
 @media screen and (min-width: 767px) {
 
+body {
+    min-width: 375px;
+    margin: 0;
+  }
+
+  /* PC用ナビゲーション非表示 */
+  #nav-pc {
+    display: none;
+  }
+
+  /* ハンバーガーメニュー */
+  #menu-sp {
+    float: right;
+    padding: 0;
+}
 }
