@@ -9,6 +9,7 @@ p {
 /*================
  PC用のスタイル 
 =================*/
+@media screen and (min-width: 768px) {
 /* 横幅設定 */
 body {
     max-width: 1080px;
@@ -479,3 +480,11 @@ details {
     color: #ffffff;
     float: right;
  }
+}
+
+/* ==================＝＝
+スマートフォン用のスタイル
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝ */
+@media screen and (min-width: 767px) {
+
+}
